@@ -1,0 +1,24 @@
+{
+  "lockId": "amazon-canvas-portrait-v5-landscape-v4-locked-20260820",
+  "policy": "Only the source artwork pixels may vary between design outputs. Template roles, output dimensions, room backdrops, composition coordinates, construction labels, size labels, typography, edges and shadows are locked.",
+  "portrait": {
+    "roles": ["MAIN", "DETAIL", "SCENE-LIVING", "SCENE-DINING", "SIZE"],
+    "dimensions": {"MAIN": [1600, 2400], "DETAIL": [2000, 2000], "SCENE-LIVING": [2000, 2000], "SCENE-DINING": [2000, 2000], "SIZE": [2000, 2000]},
+    "sizeLabels": ["8 x 12 in", "12 x 18 in", "16 x 24 in", "20 x 30 in", "24 x 36 in", "32 x 48 in", "40 x 60 in"],
+    "referenceSha256": "f4014b4eb7ac73afcb246666825841e2c459fa9c1a08ddd56374b8377baea248"
+  },
+  "landscape": {
+    "roles": ["MAIN", "DETAIL", "SCENE-LIVING", "SCENE-BEDROOM", "SIZE"],
+    "dimensions": {"MAIN": [2400, 1600], "DETAIL": [2000, 2000], "SCENE-LIVING": [2000, 2000], "SCENE-BEDROOM": [2000, 2000], "SIZE": [2000, 2000]},
+    "sizeLabels": ["12 x 8 in", "18 x 12 in", "24 x 16 in", "30 x 20 in", "36 x 24 in", "48 x 32 in", "60 x 40 in"],
+    "bedroomProductCenterX": 1080,
+    "referenceSha256": "e0da8641ae21595505613a370b0dfcf0e9aa609e486e4f0ab03247403b7e54b1"
+  },
+  "flatRoleAllowed": false,
+  "templateAssetSha256": {
+    "scene_landscape_bedroom_empty.png": "c13fc995f954c979b1aba828eab6d219318cbbe3d025263309cedc7bdd9d9ace",
+    "scene_landscape_living_empty.png": "6407608478ce458d9aec819d29348cbddf520f2d6a8523ee0b74dd960bdb50a8",
+    "scene_portrait_dining_empty.png": "28ab79fcca4b327569692ed3f71da00d818746ce56a7a528e8d673a925042624",
+    "scene_portrait_living_empty.png": "743b27aad27ec98552ee3f38c00184637567079547afa9451784fe50651ef812"
+  }
+}
