@@ -1,0 +1,15 @@
+{
+  "project": "amazon_us_fresh_canvas_media_400_v5_noflat_20260820",
+  "sourceProject": "amazon_us_fresh_flat_art_400_20260820",
+  "repository": "ronanloui/amazon-us-fresh-canvas-media-400-v5-noflat-20260820",
+  "startedAt": "2026-08-21T01:51:37.839Z",
+  "updatedAt": "2026-08-21T02:02:35.175Z",
+  "expectedDesigns": 400,
+  "expectedRolesPerDesign": 5,
+  "expectedFiles": 2000,
+  "selectedThisRun": 400,
+  "completedDesigns": 400,
+  "completedFiles": 2000,
+  "pendingDesigns": 0,
+  "nextPendingDesignId": null
+}
